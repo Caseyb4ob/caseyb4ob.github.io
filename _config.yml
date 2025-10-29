@@ -28,7 +28,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:cpobrie6@ncsu.edu"}
   - {title: Github, icon: github, url: "https://github.com/cpobrie6"}
-  - {title: LinkedIn, icon: linkedin, url: "www.linkedin.com/in/casey-p-obrien"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/casey-p-obrien"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
