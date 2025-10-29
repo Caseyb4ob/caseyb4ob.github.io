@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Casey P O'Brien"
+author: "Casey P O'Brien"
+description: "North Carolina State University PhD Student"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
