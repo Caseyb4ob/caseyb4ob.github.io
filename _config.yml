@@ -19,7 +19,11 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", title: "Home", sidebaricon: home}
-  - {file: "README.md", title: "About Me", sidebaricon: address-card}
+  - {file: "CV.pdf", title: "CV", sidebaricon: info-circle}
+  - {file: "ABOUTME.md", title: "About Me", sidebaricon: address-card}
+ # - {file: "ABOUTME.md", title: "Blog", sidebaricon: paragraph}
+
+
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:cpobrie6@ncsu.edu"}
