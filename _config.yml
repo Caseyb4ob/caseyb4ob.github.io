@@ -21,6 +21,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
  # - {file: "archive.html", title: "Home", sidebaricon: home}
   - {file: "CV.html", title: "CV", sidebaricon: info-circle}
   - {file: "personal.md", title: "Personal Life", sidebaricon: address-card}
+  - {file: "2026-04-28-Com_798_2026.md", title: "COM798 Portfolio", sidebaricon: paragraph}
  # - {file: "ABOUTME.md", title: "Blog", sidebaricon: paragraph}
 
 
